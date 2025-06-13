@@ -3,7 +3,7 @@
 
 ## Linguagens e Tecnologias:
 <div style="display: inline_block"><br>
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
@@ -20,10 +20,6 @@
 
 
 ## Minhas estatísticas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaTesta&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaTesta&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaTesta&show_icons=true)
 
-## Visualizações
-<p>
-  <img src="https://gpvc.arturio.dev/JuliaTesta" alt="profile views">
-</p>
- 
+
