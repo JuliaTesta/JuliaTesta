@@ -17,7 +17,7 @@
 
 
 ##  📫 Minhas redes:
-  Email: <a href = "jutemts@gmail.com"></a>
+  Email: jutemts@gmail.com <br> 
   Linkedin: <a href="https://www.linkedin.com/in/julia-matos-2557b929b/" target="_blank"></a> 
 
 
