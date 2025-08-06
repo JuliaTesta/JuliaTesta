@@ -9,16 +9,16 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
 <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/java-0078D4?style=for-the-badge&logo=java&logoColor=orange" />
 <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=c&logoColor=orange" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
 
 
 ##  📫 Minhas redes:
-  Email: <a href = "emailto:jutemts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  Linkedin: <a href="https://www.linkedin.com/in/julia-matos-2557b929b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  Email: <a href = "jutemts@gmail.com"></a>
+  Linkedin: <a href="https://www.linkedin.com/in/julia-matos-2557b929b/" target="_blank"></a> 
 
 
 ##  📊 Minhas estatísticas
