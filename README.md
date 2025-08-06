@@ -18,7 +18,7 @@
 
 ##  📫 Minhas redes:
   Email: jutemts@gmail.com <br> 
-  Linkedin: <a href="https://www.linkedin.com/in/julia-matos-2557b929b/" target="_blank"></a> 
+  Linkedin: <a href="https://www.linkedin.com/in/julia-matos-2557b929b/" target="_blank">https://www.linkedin.com/in/juliamatos20/</a> 
 
 
 ##  📊 Minhas estatísticas
