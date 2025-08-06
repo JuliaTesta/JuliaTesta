@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Júlia✨ Hello there!
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSP
+🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSP <br>
     Studying Systems Analysis and Development at IFSP
 
 ## 🚀 Linguagens e Tecnologias | Languages and Technologies:
