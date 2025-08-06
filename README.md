@@ -1,8 +1,9 @@
-### Oiii! Eu sou a Júlia✨ 
+### Oiii! Eu sou a Júlia✨ Hello there!
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSP
+    Studying Systems Analysis and Development at IFSP
 
-## 🚀 Linguagens e Tecnologias:
+## 🚀 Linguagens e Tecnologias | Languages and Technologies:
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,12 +17,12 @@
 <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
 
 
-##  📫 Minhas redes:
+##  📫 Minhas redes | Contact:
   Email: jutemts@gmail.com <br> 
   Linkedin: <a href="https://www.linkedin.com/in/julia-matos-2557b929b/" target="_blank">https://www.linkedin.com/in/juliamatos20/</a> 
 
 
-##  📊 Minhas estatísticas
+##  📊 Minhas estatísticas | GitHub Stats: 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaTesta&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaTesta&show_icons=true)
 
 
